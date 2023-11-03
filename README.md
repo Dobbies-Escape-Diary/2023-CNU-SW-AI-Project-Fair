@@ -82,9 +82,11 @@
 
 1. [VSCode Extension](https://github.com/Dobbies-Escape-Diary/JOY_Extension)
     > VSCode Extension
-3. [Front-End](https://github.com/)
-    > 
-4. [Server](https://github.com/Dobbies-Escape-Diary/JOY-BE)
+
+2. [Front-End](https://github.com/Dobbies-Escape-Diary/JOY_FE)
+    > 출제자를 위한 Interface 제공
+
+3. [Server](https://github.com/Dobbies-Escape-Diary/JOY-BE)
     > Front 요청에 따라 데이터 전달
 
 </br>

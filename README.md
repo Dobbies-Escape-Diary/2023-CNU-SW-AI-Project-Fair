@@ -45,14 +45,15 @@
 
 ## 🖥️ 프로젝트 구조
 
-<img width="477" alt="스크린샷 2023-05-31 오후 3 29 19" src="https://github.com/DobiIsFree/Dobby-Socks/assets/52994616/78b7a1b3-a73e-4a4c-8173-c91b9fc6f476">
+<p align="center"><img width="592" src="./figure/project.png"></p>
+
 
 
 </br>
 
 ## ⚙️ 개발 환경
 
-<img width="592" alt="스크린샷 2023-05-31 오후 3 17 11" src="https://github.com/DobiIsFree/Dobby-Socks/assets/52994616/56106fa7-07a8-433b-bad0-fb980edaba29">
+<p align="center"><img width="592" src="./figure/system.png"></p>
 
 </br>
 
